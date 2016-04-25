@@ -1,22 +1,19 @@
-# Mystery Puzzle
+# Triangle Tester
 
 #### Behavior-driven development independent project
 
-#### by Garrett Biernat 4/22
+#### by Garrett Biernat & Scott Holland 4/25
+
 ## Description
-a simple Java web application that takes the user input in the form of a sentence and then replaces all the vowels in it with a dash so that someone else can guess what the mystery sentence is. But if they get stuck that can click hint and a random letter will be revealed but for every letter revealed you loose 4 points so if you reveal all the letters you loose entirely.
+a simple Java web application that takes three user inputted sides and tests to see if it is a triangle, and if so, what kind of triangle it is.
 
 ## Setup/Installation Requirements
-* Clone repository,
+* Clone repository
 * Install gradle
 * enter "gradle run" in the repositories directory
 * in your browser go to "localhost:4567"
-* enter a sentence into the fields, and click
-* try and guess what the word is from only consonants
-* if you guess wrong, try again, if you guess correctly, enter a new word.
-
-## Known Bugs
-Not entirely sure about filling hidden input fields just to get the value I assume theres a better way to do that but it was the only way that I had found to make this work.
+* enter three sides into the fields, and click
+* enjoy results
 
 ## Technologies Used
 * Velocity Template Engine
@@ -28,4 +25,4 @@ Not entirely sure about filling hidden input fields just to get the value I assu
 
 MIT License
 
-Copyright (c) 2016 GDB Media, Inc.
+Copyright (c) 2016 Scott and Garrett, Inc.
