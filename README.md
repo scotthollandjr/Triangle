@@ -26,3 +26,4 @@ a simple Java web application that takes three user inputted sides and tests to 
 MIT License
 
 Copyright (c) 2016 Scott and Garrett, Inc.
+
